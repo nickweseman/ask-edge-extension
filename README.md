@@ -1,4 +1,4 @@
-# Chrome Extension for Ask.com (formerly known as Ask Jeeves)
+# Microsoft Edge Extension for Ask.com (formerly known as Ask Jeeves)
 
 ## Installation from Google Chrome Web Store Instructions:
 1.  Visit: <pending approval> to install.
