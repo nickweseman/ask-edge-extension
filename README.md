@@ -1,8 +1,5 @@
 # Microsoft Edge Extension for Ask.com (formerly known as Ask Jeeves)
 
-## Installation from the Microsoft Edge Web Store Instructions:
-1.  Visit: "...pending approval..." to install.
-
 ## Installation from Source Instructions:
 1. Download "Ask Extension" folder to your computer
 2. Open Microsoft Edge 
